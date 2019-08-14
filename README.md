@@ -1,6 +1,6 @@
 # 中国大陆稳定好用的翻墙VPN推荐，定期更新，2019
 
-![2019稳定好用便宜的vps推荐，中国vpn购买推荐，VPN排行榜，ExpressVPN怎么样](/image/logo.jpg "vpn")
+![2019稳定好用便宜的vps推荐，中国vpn购买推荐，VPN排行榜，ExpressVPN怎么样](/image/wall.jpg "vpn")
 
 ## 选择VPN的标准
 
