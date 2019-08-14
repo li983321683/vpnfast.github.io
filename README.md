@@ -32,6 +32,6 @@
 
 ### 为什么很多VPN都不稳定？
 
-*[本文固定链接](https://vpnfast.github.io) 一些稳定便宜优质的vps推荐，本文定期更新，有用的话请添加收藏*
+*[本文固定链接](https://vpnfast.github.io) 中国大陆稳定好用的翻墙VPN推荐，定期更新，觉得不错的话请添加收藏*
 
-*更多推荐 [天天煮鸡](http://tthosts.com) [便宜vps推荐](https://topvps.github.io)*
+*更多推荐 [天天煮鸡](http://tthosts.com) / [便宜vps推荐](https://topvps.github.io)*
