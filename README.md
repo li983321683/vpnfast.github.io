@@ -64,11 +64,11 @@ ExpressVPN支持Mac、Windows、Android、iOS、Linux、路由器等等。
 
 ![NordVPN](/image/nord.png "NordVPN")
 
-- 安全、私密地访问互联网VPN
+- 安全地访问VPN
 
 NordVPN拥有军用级别的加密技术，就算在公共场合，使用wifi等情况下，都能有效的保护网络浏览记录的隐私性。
 
-- 保护您的所有设备
+- 保护所有设备
 
 NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连Chrome和Firefox的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，DNS 泄露防护，Onion Over VPN等功能。
 
@@ -80,7 +80,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ![PureVPN](/image/pure.png "PureVPN")
 
-- 访问内容
+- 突破内容访问限制
 
 还是版权保护的问题，通过全球的服务器切换，就能够访问那些被限制了资源内容了。比如国内大多数的视频和音乐软件，都是做了IP限制的。
 
