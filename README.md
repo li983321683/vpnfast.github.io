@@ -121,7 +121,7 @@ ExpressVPN可以说的上是业界的领头羊了，和防火长城抗争这么�
 
 ### [VyprVPN](https://www.vyprvpn.com)
 
-![VyprVPN](/image/vypr.png "VyprVPN")
+![VyprVPN](/image/vypr.jpg "VyprVPN")
 
 - 保护您的隐私
 
