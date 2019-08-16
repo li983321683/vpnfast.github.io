@@ -1,5 +1,7 @@
 # China's easy to use VPN recommended, regularly updated, 2019
 
+*中文版，请点击这里: [VPN推荐>>](/)*
+
 ![2019 stable and easy to use vpn recommendation, China vpn purchase recommendation, VPN ranking, how to expressVPN, over the wall software](/image/wall.jpg "vpn")
 
 ## Select VPN standard
