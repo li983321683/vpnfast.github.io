@@ -1,6 +1,6 @@
 # China's easy to use VPN recommended, regularly updated, 2019
 
-[2019 stable and easy to use vpn recommendation, China vpn purchase recommendation, VPN ranking, how to expressVPN, over the wall software] (/image/wall.jpg "vpn")
+[2019 stable and easy to use vpn recommendation, China vpn purchase recommendation, VPN ranking, how to expressVPN, over the wall software](/image/wall.jpg "vpn")
 
 ## Select VPN standard
 
@@ -12,7 +12,7 @@ Nowadays, due to the tightening of domestic policies, the strength of the wall i
 
 ### Select a paid VPN
 
-Free VPN sounds tempting, but it really takes a lot of trouble to really use it. After all, the wool is on the sheep, and people are also making money. Then these so-called free VPNs will make money through other means, such as full-screen pop-up ads and sales of personal information. In addition, most free VPNs are basically in an unusable state, and network delays are horrendous, such as the free version of [lantern] (https://getlantern.org). And if you want a stable service, you still need to buy his paid version. To put it bluntly, free is just a marketing tool.
+Free VPN sounds tempting, but it really takes a lot of trouble to really use it. After all, the wool is on the sheep, and people are also making money. Then these so-called free VPNs will make money through other means, such as full-screen pop-up ads and sales of personal information. In addition, most free VPNs are basically in an unusable state, and network delays are horrendous, such as the free version of [lantern](https://getlantern.org). And if you want a stable service, you still need to buy his paid version. To put it bluntly, free is just a marketing tool.
 
 ### Choosing a big brand VPN
 
@@ -124,7 +124,7 @@ The main detection method of the wall is to judge according to the flow fingerpr
 
 ### What is the basic principle of VPN?
 
-Vpn is the abbreviation of [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network). The VPN was originally designed to allow any two computers in the world to transmit data in an encrypted channel. It is only encrypted on the data, not on the hardware, so it is called virtual. It has therefore become a tool for overturning the review. VPN is more basic than [shadowsocks] (https://shadowsocks.org/en/index.html). It first virtualizes a network card through the operating system. After that, the data is encrypted by this network card. .
+Vpn is the abbreviation of [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network). The VPN was originally designed to allow any two computers in the world to transmit data in an encrypted channel. It is only encrypted on the data, not on the hardware, so it is called virtual. It has therefore become a tool for overturning the review. VPN is more basic than [shadowsocks](https://shadowsocks.org/en/index.html). It first virtualizes a network card through the operating system. After that, the data is encrypted by this network card. .
 
 ### Why are most VPNs unstable?
 
@@ -132,6 +132,6 @@ Because for the ordinary VPN, although the message content is encrypted, the mes
 
 ### What should I pay attention to when using VPN?
 
-First of all, it is illegal to use VPN. However, the number of users using VPN in China is extremely large. It is impossible to punish all of them. It can only be said that killing chickens and monkeys, such as some [news using VPN] (https:/ /www.bbc.com/zhongwen/simp/chinese-news-46823319). Of course, this is not to say that the punishment is random, but the first to punish those who browsed foreign politically sensitive websites and spread them. Therefore, when using VPN, you must remember to read-only, that is, only read information, not to spread information.
+First of all, it is illegal to use VPN. However, the number of users using VPN in China is extremely large. It is impossible to punish all of them. It can only be said that killing chickens and monkeys, such as some [news using VPN](https:/ /www.bbc.com/zhongwen/simp/chinese-news-46823319). Of course, this is not to say that the punishment is random, but the first to punish those who browsed foreign politically sensitive websites and spread them. Therefore, when using VPN, you must remember to read-only, that is, only read information, not to spread information.
 
-*[This Page] (https://vpnfast.github.io) China's easy to use VPN recommended, updated regularly, feel good, please add a collection *
+*[This Page](https://vpnfast.github.io) China's easy to use VPN recommended, updated regularly, feel good, please add a collection *
