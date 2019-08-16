@@ -1,4 +1,4 @@
-# China's stable and easy to use over the wall software VPN recommended, regularly updated, 2019
+# China's easy to use VPN recommended, regularly updated, 2019
 
 [2019 stable and easy to use vpn recommendation, China vpn purchase recommendation, VPN ranking, how to expressVPN, over the wall software] (/image/wall.jpg "vpn")
 
@@ -23,7 +23,7 @@ There are countless VPN products on the market, but most of them are in an unusa
 Before choosing a VPN, it is necessary to look at whether all terminals are supported. Other devices are basically supported by all businesses, mainly Apple devices. After all, Apple is particularly cooperating with domestic censorship, and Cook is fast enough to be a party activist.
 
 
-## 2019China stable and easy to use over the wall software VPN recommended
+## 2019 China's easy to use VPN recommended
 
 ### [ExpressVPN](https://www.expressvpn.com) (Specially recommended)
 
@@ -134,4 +134,4 @@ Because for the ordinary VPN, although the message content is encrypted, the mes
 
 First of all, it is illegal to use VPN. However, the number of users using VPN in China is extremely large. It is impossible to punish all of them. It can only be said that killing chickens and monkeys, such as some [news using VPN] (https:/ /www.bbc.com/zhongwen/simp/chinese-news-46823319). Of course, this is not to say that the punishment is random, but the first to punish those who browsed foreign politically sensitive websites and spread them. Therefore, when using VPN, you must remember to read-only, that is, only read information, not to spread information.
 
-*[This Page] (https://vpnfast.github.io) China's stable and easy to use over the wall VPN recommended, updated regularly, feel good, please add a collection *
+*[This Page] (https://vpnfast.github.io) China's easy to use VPN recommended, updated regularly, feel good, please add a collection *
