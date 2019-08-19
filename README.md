@@ -29,7 +29,7 @@
 
 ## 2019中国稳定好用的翻墙软件VPN推荐
 
-### [ExpressVPN](https://www.expressvpn.com)（特别推荐）
+### [ExpressVPN](http://heivpn.com/express)（特别推荐）
 
 ExpressVPN可以说的上是业界的领头羊了，和防火长城抗争这么多年，还是能稳定运行。
 
@@ -62,7 +62,7 @@ ExpressVPN支持Mac、Windows、Android、iOS、Linux、路由器等等。
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
 
-### [NordVPN](https://nordvpn.com)
+### [NordVPN](http://heivpn.com/nord)
 
 ![NordVPN](/image/nord.png "NordVPN")
 
@@ -78,7 +78,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候速度非常快。
 
-### [PureVPN](https://billing.purevpn.com/aff.php?aff=40286)
+### [PureVPN](http://heivpn.com/pure)
 
 ![PureVPN](/image/pure.png "PureVPN")
 
@@ -107,7 +107,7 @@ PureVPN也是支持几乎所有设备，每个帐户可以同时5个设备在线
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
 
-### [VyprVPN](https://www.vyprvpn.com)
+### [VyprVPN](http://heivpn.com/vypr)
 
 ![VyprVPN](/image/vypr.jpg "VyprVPN")
 
@@ -138,4 +138,4 @@ vpn是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用�
 
 首先下结论，使用VPN就是属于违法行为，但是中国国内使用VPN的用户数量是极大了，不可能全部都处罚，只能说杀鸡儆猴，比如某些[使用VPN被罚的新闻](https://www.bbc.com/zhongwen/simp/chinese-news-46823319)。当然也不是说这个处罚是随机的，而是最先处罚那些浏览了国外政治敏感的网站，并且肆意传播的人。所以在使用VPN的时候一定要记住read-only，就是只读取信息，不要传播信息。
 
-*[本文固定链接](https://vpnfast.github.io) 中国大陆稳定好用的翻墙VPN推荐，定期更新，觉得不错的话请添加收藏*
+*[本文固定链接](https://vpnfast.github.io) [原文地址](http://heivpn.com/) 中国大陆稳定好用的翻墙VPN推荐，定期更新，觉得不错的话请添加收藏*
