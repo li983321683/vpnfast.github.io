@@ -2,6 +2,8 @@
 
 ![2019稳定好用的vpn推荐，中国vpn购买推荐，VPN排行榜，ExpressVPN怎么样，知乎推荐，翻墙软件](/image/wall.jpg "vpn")
 
+更多好用的vpn推荐，可以访问[heivpn](http://heivpn.com/)查看
+
 ## 选择VPN的标准
 
 在选择VPN之前，我建议大家考虑一下这些选择标准，而不是盲目的付费购买。
@@ -138,4 +140,11 @@ vpn是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用�
 
 首先下结论，使用VPN就是属于违法行为，但是中国国内使用VPN的用户数量是极大了，不可能全部都处罚，只能说杀鸡儆猴，比如某些[使用VPN被罚的新闻](https://www.bbc.com/zhongwen/simp/chinese-news-46823319)。当然也不是说这个处罚是随机的，而是最先处罚那些浏览了国外政治敏感的网站，并且肆意传播的人。所以在使用VPN的时候一定要记住read-only，就是只读取信息，不要传播信息。
 
-*[本文地址](https://vpnfast.github.io) [原文地址](http://heivpn.com/) 中国大陆稳定好用的翻墙VPN推荐，定期更新，觉得不错的话请添加收藏*
+
+## 相关内容
+
+[中国稳定好用的翻墙软件VPN推荐](http://heivpn.com/)
+[哪里有免费vpn？不妨试试付费vpn的试用](http://heivpn.com/free-vpn/)
+
+
+*[本文地址](https://vpnfast.github.io) 中国大陆稳定好用的翻墙VPN推荐，定期更新，觉得不错的话请添加收藏*
