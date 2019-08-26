@@ -2,7 +2,16 @@
 
 ![2019稳定好用的vpn推荐，中国vpn购买推荐，VPN排行榜，ExpressVPN怎么样，知乎推荐，翻墙软件](/image/wall.jpg "vpn")
 
-更多好用的vpn推荐，可以访问[heivpn](http://heivpn.com/)查看
+更多相关内容推荐
+
+- [中国稳定好用的翻墙软件VPN推荐](http://heivpn.com/)
+
+- [哪里有免费vpn？不妨试试付费vpn的试用](http://heivpn.com/free-vpn/)
+
+- [怎样才能翻墙回国?能翻墙回国的VPN推荐2019](http://heivpn.com/wall-back/)
+
+- [ExpressVPN怎么样？ExpressVPN中国使用测评2019](http://heivpn.com/express-evaluate/)
+
 
 ## 选择VPN的标准
 
@@ -144,7 +153,11 @@ vpn是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用�
 ## 相关内容
 
 - [中国稳定好用的翻墙软件VPN推荐](http://heivpn.com/)
+
 - [哪里有免费vpn？不妨试试付费vpn的试用](http://heivpn.com/free-vpn/)
 
+- [怎样才能翻墙回国?能翻墙回国的VPN推荐2019](http://heivpn.com/wall-back/)
+
+- [ExpressVPN怎么样？ExpressVPN中国使用测评2019](http://heivpn.com/express-evaluate/)
 
 *[本文地址](https://vpnfast.github.io) 中国大陆稳定好用的翻墙VPN推荐，定期更新，觉得不错的话请添加收藏*
