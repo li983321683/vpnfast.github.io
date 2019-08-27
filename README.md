@@ -2,7 +2,7 @@
 
 ![2019还能用的翻墙VPN软件，中国vpn购买推荐，VPN排行榜，ExpressVPN怎么样，知乎推荐，翻墙软件](/image/wall.jpg "vpn")
 
-主站内容推荐
+主站内容推荐[http://heivpn.com/](http://heivpn.com/)
 
 - [翻墙软件VPN推荐](http://heivpn.com/)
 
