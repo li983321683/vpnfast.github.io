@@ -48,7 +48,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候速度非常快。
 
-### PureVPN(http://vpnpush/pure)
+### [PureVPN](http://vpnpush/pure)
 
 ![PureVPN](/image/pure.png)
 
