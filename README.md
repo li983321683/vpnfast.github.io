@@ -91,6 +91,8 @@ Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200
 
 ## VPN推荐的标准
 
+![VPN推荐](/image/standard.jpg)
+
 在选择VPN之前，我建议大家考虑一下这些选择标准，而不是盲目的付费购买。
 
 ### 推荐稳定可靠的VPN
@@ -118,6 +120,8 @@ Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200
 其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray，VPS位置最好选择美西的比较稳定，推荐[Vultr](/)的VPS，线路稳定价格适中。[Shadowsocks搭建教程](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)有详细的搭建过程，V2Ray最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解。
 
 ## 关于VPN的一些问题
+
+![VPN是什么](/image/question.jpg)
 
 ### VPN的基本原理是什么？
 
