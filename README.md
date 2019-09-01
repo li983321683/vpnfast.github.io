@@ -11,21 +11,13 @@
 
 ![ExpressVPN](/image/express.png)
 
-ExpressVPN可以说的上是业界的领头羊了，凭借其出色的技术能力和敏锐洞察墙的能力，成为了翻墙到国外的最稳定的VPN之一。
+ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能力和敏锐洞察墙的能力，成为了翻墙到国外的最稳定的VPN之一。
 
 ### ExpressVPN的优势有哪些？
 
 - 全世界都能访问
 
 因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，在 香港等地都有中国VPN服务器。
-
-- 保证安全和匿名
-
-在安全和匿名上，ExpressVPN也做的非常好，一旦你开始上网，ExpressVPN就会隐藏你的IP地址，并且加密网络数据。加密之后你的所有浏览记录，点击行为就不会有人知道了。
-
-- 无限制访问
-
-没有流量限制，不用考虑流量用完的情况。
 
 - 24小时在线客服
 
@@ -40,6 +32,8 @@ ExpressVPN可以说的上是业界的领头羊了，凭借其出色的技术能�
 
 ![NordVPN](/image/nord.png)
 
+NordVPN在音视频方便做的比较好，如果为了翻墙看锁区视频的话，你可能需要它。
+
 - 访问安全
 
 NordVPN拥有军用级别的加密技术，就算在公共场合，使用[wifi](https://zh.wikipedia.org/zh/Wi-Fi)等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
@@ -52,7 +46,11 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候速度非常快。
 
-- PureVPN
+### PureVPN(http://vpnpush/pure)
+
+![PureVPN](/image/pure.png)
+
+在一线商家里面，算是价格相对便宜的vpn了，速度也相对稳定。
 
 - 突破锁区限制
 
@@ -77,6 +75,8 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 ### Surfshark(http://vpnpush/surfshark)
 
 ![Surfshark](/image/surfshark.png)
+
+专注Netflix，如果需要翻墙看Netflix，你可能需要它。
 
 - 隐私保护
 
