@@ -7,7 +7,7 @@
 
 ## 4个稳定好用的翻墙VPN推荐，国内实测
 
-### [ExpressVPN](http://vpnpush.com/express)（特别推荐）
+### [ExpressVPN](http://vpnpush.com/express)（中国最稳定）
 
 ![ExpressVPN](/image/express.png)
 
