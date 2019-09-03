@@ -105,7 +105,7 @@ Nowadays, due to the tightening of domestic policies, the strength of the wall i
 
 ### Recommended paid first-line VPN
 
-Free VPN sounds tempting, but it really takes a lot of trouble to really use it. After all, the wool is on the sheep, and people are also making money. Then these so-called free VPNs will make money through other means, such as full-screen pop-up ads and sales of personal information. In addition, most free VPNs are basically in an unusable state, and network delays are horrendous, such as the free version of [Blue Light](https://getlantern.org/zh_CN/index.html). And if you want a stable service, you still need to buy his paid version. To put it bluntly, free is just a marketing tool.
+Free VPN sounds tempting, but it really takes a lot of trouble to really use it. After all, the wool is on the sheep, and people are also making money. Then these so-called free VPNs will make money through other means, such as full-screen pop-up ads and sales of personal information. In addition, most free VPNs are basically in an unusable state, and network delays are horrendous, such as the free version of [Lantern](https://getlantern.org/zh_CN/index.html). And if you want a stable service, you still need to buy his paid version. To put it bluntly, free is just a marketing tool.
 
 ### Recommend foreign VPN merchants
 
