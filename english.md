@@ -6,7 +6,7 @@
 
 Nowadays more and more VPNs are blocked, and there are not many VPNs that can be used in China. Therefore, we have measured several first-line VPN merchants. According to the actual performance of each indicator, we recommend several stable ones in 2019 China. The vpn is used to reduce the risk of pits in the process of finding a VPN, and finally the methods of SSR and V2ray. Since each VPN may be blocked, this article will be updated regularly to recommend VPNs that are currently available in China.
 
-## 4 stable and easy to use VPN recommendation, domestic measured
+## 4 stable and easy to use VPN recommendation
 
 ### [ExpressVPN](http://vpnpush.com/express) (strongly recommended)
 
