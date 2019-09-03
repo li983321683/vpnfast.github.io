@@ -7,7 +7,7 @@
 
 ## 4个稳定好用的翻墙VPN推荐，国内实测
 
-### [ExpressVPN](http://vpnpush.com/express)（中国最稳定）
+### [ExpressVPN](http://vpnpush.com/express)（强烈推荐）
 
 ![ExpressVPN](/image/express.png)
 
@@ -17,7 +17,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 - 全世界都能访问
 
-因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，在 香港等地都有中国VPN服务器。
+因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，并且在香港等地都有中国VPN服务器。
 
 - 24小时在线客服
 
@@ -26,6 +26,10 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 - 30天退款承诺
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
+
+- 中国大陆速度最快
+
+看[youtube](https://www.youtube.com/)的1080P毫无压力。
 
 
 ### [NordVPN](http://vpnpush.com/nord)
@@ -82,7 +86,7 @@ Surfshark拥有多种加密协议，提供安全DNS机制以及其他的隐私�
 
 - 全球可访问
 
-Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制。不管身在何处，都能稳定快速的访问资源。
+Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是[Netflix](https://www.netflix.com/us-zh/)。不管身在何处，都能稳定快速的访问资源。
 
 - 对抗审查制度
 
@@ -117,7 +121,7 @@ Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200
 
 ## 其他翻墙姿势
 
-其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray，VPS位置最好选择美西的比较稳定，推荐[Vultr](/)的VPS，线路稳定价格适中。[Shadowsocks搭建教程](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)有详细的搭建过程，V2Ray最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解。
+其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray，VPS位置最好选择美西的比较稳定，推荐[Vultr](https://www.vultr.com/?ref=8148224)的VPS，线路稳定价格适中。[Shadowsocks搭建教程](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)有详细的搭建过程，[V2Ray](https://www.v2ray.com/)最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解。
 
 ## 关于VPN的一些问题
 
