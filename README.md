@@ -142,6 +142,4 @@ vpn是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用�
 
 [本文固定地址](https://vpnfast.github.io/) 根本会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏
 
-友情链接：[vpn推荐君](http://vpnpush.com/)
-
 

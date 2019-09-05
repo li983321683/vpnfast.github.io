@@ -141,5 +141,3 @@ Now the domestic censorship system is very strict. I have written a VPN recommen
 First of all, it is illegal to use VPN. However, the number of users using VPN in China is extremely large. It is impossible to punish all of them. It can only be said that killing chickens and monkeys, such as some [news using VPN](https:/ /www.bbc.com/zhongwen/simp/chinese-news-46823319). Of course, this is not to say that the punishment is random, but the first to punish those who browsed foreign politically sensitive websites and spread them. Therefore, when using VPN, you must remember to read-only, that is, only read information, not to spread information.
 
 [This article fixed address](https://vpnfast.github.io/) will update the rankings regularly according to the assessment situation. If you think the content is useful, please add it.
-
-Friendly link: [http://vpnpush.com](http://vpnpush.com/)
