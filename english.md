@@ -8,7 +8,7 @@ Nowadays more and more VPNs are blocked, and there are not many VPNs that can be
 
 ## 4 stable and easy to use VPN recommendation
 
-### [>> ExpressVPN](http://vpnpush.com/express) (strongly recommended)
+### [>> ExpressVPN](http://qiangwaikan.com/go/express) (strongly recommended)
 
 ![ExpressVPN](/image/express.png)
 
@@ -33,7 +33,7 @@ If you feel that ExpressVPN is not working well within 30, you can unconditional
 Watching [youtube](https://www.youtube.com/) 1080P is stress free.
 
 
-### [>> NordVPN](http://vpnpush.com/nord)
+### [>> NordVPN](http://qiangwaikan.com/go/nord)
 
 ![NordVPN](/image/nord.png)
 
@@ -53,7 +53,7 @@ NordVPN supports almost all devices and allows up to 6 devices to be online at t
 
 As everyone knows, the biggest factor affecting VPN access speed is geographical location. NordVPN has more than 5,700 servers in 60 countries and is very fast when watching videos or downloading files.
 
-### [>> PureVPN](http://vpnpush.com/pure)
+### [>> PureVPN](http://qiangwaikan.com/go/pure)
 
 ![PureVPN](/image/pure.png)
 
@@ -73,7 +73,7 @@ In a complex network connection, the unexpected disconnection of the network is 
 
 If you encounter problems during use, you can contact their technical team and go online 24/7.
 
-### [>> Surfshark](http://vpnpush.com/surfshark)
+### [>> Surfshark](http://qiangwaikan.com/go/surfshark)
 
 ![Surfshark](/image/surfshark.png)
 
