@@ -1,12 +1,12 @@
-# 2019中国最好用的翻墙vpn推荐，翻墙到国外必备VPN，9月排行更新
+# 2019中国最好用的翻墙软件vpn推荐，翻墙到国外必备VPN，9月更新
 
-![2019还能用的翻墙VPN软件，中国vpn购买推荐，VPN排行榜，ExpressVPN怎么样，知乎推荐，翻墙软件, VPN推荐](/image/wall.jpg "vpn")
+![2019还能用的翻墙VPN软件，中国vpn购买推荐，ExpressVPN怎么样，知乎推荐，翻墙软件, VPN推荐](/image/wall.jpg "vpn")
 
 [Click here to visit the English page](/english)
 
 如今越来越多的VPN被封，在中国国内还能用的VPN已经不多了，所以我们实测了几家一线VPN商家，根据各个指标的实际表现，我们推荐了几家在2019中国稳定好用的翻墙vpn，为的是减少大家在寻找VPN过程中采坑的风险，最后还有SSR和V2ray的翻墙方法。由于每家VPN都有可能被封，所以本文会定期更新，推荐当前中国还能用的VPN翻墙软件。
 
-## 4个稳定好用的翻墙VPN推荐（需要翻墙访问），国内实测
+## 4个稳定好用的翻墙软件VPN推荐（需要翻墙访问），国内实测
 
 ### [>> ExpressVPN](http://qiangwaikan.com/go/express)（强烈推荐）
 
@@ -86,7 +86,7 @@ Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
 
-## VPN推荐的标准
+## 翻墙软件VPN推荐的标准
 
 ![VPN推荐](/image/standard.jpg)
 
