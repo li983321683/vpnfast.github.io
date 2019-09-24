@@ -1,10 +1,10 @@
 # China can also use the VPN recommendation, 2019
 
-![2019 can also use VPN software, China vpn purchase recommendation, VPN leaderboard, ExpressVPN how, know recommended, software, VPN recommended](/image/wall.jpg "vpn")
+![2019 can also use VPN software, China VPN purchase recommendation, VPN leaderboard, ExpressVPN how, know recommended, software, VPN recommended](/image/wall.jpg "vpn")
 
 [点击这里访问中文页面](/)
 
-Nowadays more and more VPNs are blocked, and there are not many VPNs that can be used in China. Therefore, we have measured several first-line VPN merchants. According to the actual performance of each indicator, we recommend several stable ones in 2019 China. The vpn is used to reduce the risk of pits in the process of finding a VPN, and finally the methods of SSR and V2ray. Since each VPN may be blocked, this article will be updated regularly to recommend VPNs that are currently available in China.
+Nowadays more and more VPNs are blocked, and there are not many VPNs that can be used in China. Therefore, we have measured several first-line VPN merchants. According to the actual performance of each indicator, we recommend several stable ones in 2019 China. The VPN is used to reduce the risk of pits in the process of finding a VPN, and finally the methods of SSR and V2ray. Since each VPN may be blocked, this article will be updated regularly to recommend VPNs that are currently available in China.
 
 ## 4 stable and easy to use VPN recommendation
 
@@ -24,13 +24,13 @@ Because of copyright protection, there are limits to accessing videos, music, an
 
 If you have problems during setup and troubleshooting, you can contact the online customer service via email or live chat.
 
-- 30-day refund promise
-
-If you feel that ExpressVPN is not working well within 30, you can unconditionally refund it. This is indeed a big business style.
-
 - The fastest in mainland China
 
 Watching [youtube](https://www.youtube.com/) 1080P is stress free.
+
+- 30-day refund promise
+
+If you feel that ExpressVPN is not working well within 30, you can unconditionally refund it. This is indeed a big business style.
 
 
 ### [>> NordVPN](http://qiangwaikan.com/go/nord)
@@ -47,7 +47,7 @@ NordVPN has military-grade encryption technology, which can effectively protect 
 
 - Protect all devices
 
-NordVPN supports almost all devices and allows up to 6 devices to be online at the same time. This is very conscience, and many VPN merchants only support single sign-on. Even more intimate is that even [Chrome](https://www.google.com/intl/zh-CN/chrome/) and [Firefox](https://www.mozilla.org/en-US/) Web proxy extensions are available. NordVPN also has a strict log-free policy, automatic Kill Switch, [DNS leak](https://zhuanlan.zhihu.com/p/47095852) protection, Onion Over VPN and other functions.
+NordVPN supports almost all devices and allows up to 6 devices to be online at the same time. This is very conscience, and many VPN merchants only support single sign-on. Even more intimate is that even [Chrome](https://www.google.com/intl/zh-CN/chrome/) Web proxy extensions are available. NordVPN also has a strict log-free policy, automatic Kill Switch, [DNS leak](https://zhuanlan.zhihu.com/p/47095852) protection, Onion Over VPN and other functions.
 
 - Global server support
 

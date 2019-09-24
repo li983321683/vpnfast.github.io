@@ -1,10 +1,10 @@
-# 2019中国最好用的翻墙软件vpn推荐，翻墙到国外必备VPN，9月更新
+# 2019中国最好用的翻墙软件VPN推荐，翻墙到国外必备VPN，9月更新
 
-![2019还能用的翻墙VPN软件，中国vpn购买推荐，ExpressVPN怎么样，知乎推荐，翻墙软件, VPN推荐](/image/wall.jpg "vpn")
+![2019还能用的翻墙VPN软件，中国VPN购买推荐，ExpressVPN怎么样，知乎推荐，翻墙软件, VPN推荐](/image/wall.jpg "vpn")
 
 [Click here to visit the English page](/english)
 
-如今越来越多的VPN被封，在中国国内还能用的VPN已经不多了，所以我们实测了几家一线VPN商家，根据各个指标的实际表现，我们推荐了几家在2019中国稳定好用的翻墙vpn，为的是减少大家在寻找VPN过程中采坑的风险，最后还有SSR和V2ray的翻墙方法。由于每家VPN都有可能被封，所以本文会定期更新，推荐当前中国还能用的VPN翻墙软件。
+如今越来越多的VPN被封，在中国国内还能用的VPN已经不多了，所以我们实测了几家一线VPN商家，根据各个指标的实际表现，我们推荐了几家在2019中国稳定好用的翻墙VPN，为的是减少大家在寻找VPN过程中采坑的风险，最后还有SSR和V2ray的翻墙方法。由于每家VPN都有可能被封，所以本文会定期更新，推荐当前中国还能用的VPN翻墙软件。
 
 ## 4个稳定好用的翻墙软件VPN推荐（需要翻墙访问），国内实测
 
@@ -22,13 +22,13 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 如果在设置和故障排除的时候遇到了问题，可以通过电子邮件或者实时聊天的方式联系在在线客服。
 
-- 30天退款承诺
-
-30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
-
 - 中国大陆速度最快
 
 看[youtube](https://www.youtube.com/)的1080P毫无压力。
+
+- 30天退款承诺
+
+30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
 
 ### [>> NordVPN](http://qiangwaikan.com/go/nord)
@@ -43,7 +43,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用[wifi](
 
 - 保护所有设备
 
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连[Chrome](https://www.google.com/intl/zh-CN/chrome/)和[Firefox](https://www.mozilla.org/en-US/)的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，[DNS泄露](https://zhuanlan.zhihu.com/p/47095852)防护，Onion Over VPN等功能。
+NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连[Chrome](https://www.google.com/intl/zh-CN/chrome/)的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，[DNS泄露](https://zhuanlan.zhihu.com/p/47095852)防护，Onion Over VPN等功能。
 
 - 全球服务器支持
 
@@ -53,7 +53,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ![PureVPN](/image/pure.png)
 
-在一线商家里面，算是价格相对便宜的vpn了，速度也相对稳定。
+在一线商家里面，算是价格相对便宜的VPN了，速度也相对稳定。
 
 - 安全性和匿名
 
@@ -122,7 +122,7 @@ Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200
 
 ### VPN的基本原理是什么？
 
-vpn是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用网络](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过审查的翻墙工具。VPN相比于[Shadowsocks](https://shadowsocks.org/en/index.html)来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
+VPN是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用网络](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过审查的翻墙工具。VPN相比于[Shadowsocks](https://shadowsocks.org/en/index.html)来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
 
 ### 为什么大多数VPN都不稳定？
 
