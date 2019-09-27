@@ -14,8 +14,6 @@ Nowadays more and more VPNs are blocked, and there are not many VPNs that can be
 
 ExpressVPN can be said to be the industry leader. With its outstanding technical capabilities and keen insight into the wall, it has become one of the most stable VPNs in foreign countries.
 
-### How about ExpressVPN?
-
 - Worldwide access
 
 Because of copyright protection, there are limits to accessing videos, music, and social media. ExpressVPN has done a lot of work in response to content restrictions and censorship, and has Chinese VPN servers in Hong Kong and other places.
@@ -37,8 +35,6 @@ If you feel that ExpressVPN is not working well within 30, you can unconditional
 
 ![NordVPN](/image/nord.png)
 
-### How about NordVPN?
-
 NordVPN is better for audio and video, if you want to watch the video in the lock zone, you may need it.
 
 - Access security
@@ -53,13 +49,15 @@ NordVPN supports almost all devices and allows up to 6 devices to be online at t
 
 As everyone knows, the biggest factor affecting VPN access speed is geographical location. NordVPN has more than 5,700 servers in 60 countries and is very fast when watching videos or downloading files.
 
-### [>> PureVPN](http://qiangwaikan.com/go/pure)
+### [>> Vyprvpn](http://qiangwaikan.com/go/vypr)
 
-![PureVPN](/image/pure.png)
+![Vyprvpn](/image/vypr.jpg)
 
-### How about PureVPN?
+Paying great attention to the Chinese market, [China's mirrored domain](http://qiangwaikan.com/go/vypr-cn) name can be opened directly without having to turn over the wall. The speed of testing in mainland China is very good, and it is also cheap in the first-line merchants.
 
-In the first-line business, it is a relatively cheap price, and the speed is relatively stable.
+- Focus on the Chinese market
+
+It has servers in 70+ regions around the world, and its recent deployment is in Macau, China. Chinese support is also very friendly.
 
 - Security and anonymity
 
@@ -67,7 +65,7 @@ The same is the military-level encryption technology, which can realize anonymou
 
 - Link interrupt switching mechanism
 
-In a complex network connection, the unexpected disconnection of the network is unavoidable, and PureVPN enables efficient network switching. Switching through multiple servers also ensures privacy and anonymity.
+In a complex network connection, the unexpected disconnection of the network is unavoidable, and Vyprvpn enables efficient network switching. Switching through multiple servers also ensures privacy and anonymity.
 
 - 7*24 hour technical support
 
@@ -76,8 +74,6 @@ If you encounter problems during use, you can contact their technical team and g
 ### [>> Surfshark](http://qiangwaikan.com/go/surfshark)
 
 ![Surfshark](/image/surfshark.png)
-
-### How about Surfshark?
 
 Focus on Netflix, if you need to watch Netflix, you may need it.
 
