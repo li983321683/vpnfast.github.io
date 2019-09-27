@@ -49,9 +49,9 @@ NordVPN supports almost all devices and allows up to 6 devices to be online at t
 
 As everyone knows, the biggest factor affecting VPN access speed is geographical location. NordVPN has more than 5,700 servers in 60 countries and is very fast when watching videos or downloading files.
 
-### [>> Vyprvpn](http://qiangwaikan.com/go/vypr)
+### [>> VyprVPN](http://qiangwaikan.com/go/vypr)
 
-![Vyprvpn](/image/vypr.jpg)
+![VyprVPN](/image/vypr.jpg)
 
 Paying great attention to the Chinese market, [China's mirrored domain](http://qiangwaikan.com/go/vypr-cn) name can be opened directly without having to turn over the wall. The speed of testing in mainland China is very good, and it is also cheap in the first-line merchants.
 
@@ -65,7 +65,7 @@ The same is the military-level encryption technology, which can realize anonymou
 
 - Link interrupt switching mechanism
 
-In a complex network connection, the unexpected disconnection of the network is unavoidable, and Vyprvpn enables efficient network switching. Switching through multiple servers also ensures privacy and anonymity.
+In a complex network connection, the unexpected disconnection of the network is unavoidable, and VyprVPN enables efficient network switching. Switching through multiple servers also ensures privacy and anonymity.
 
 - 7*24 hour technical support
 

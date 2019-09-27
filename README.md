@@ -49,9 +49,9 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候速度非常快。
 
-### [>> Vyprvpn](http://qiangwaikan.com/go/vypr)
+### [>> VyprVPN](http://qiangwaikan.com/go/vypr)
 
-![Vyprvpn](/image/vypr.jpg)
+![VyprVPN](/image/vypr.jpg)
 
 非常注重中国市场，[中国镜像域名](http://qiangwaikan.com/go/vypr-cn)可以无需翻墙直接打开，在中国大陆测试的速度表现非常不错，也是一线商家里面算价格便宜的了
 
