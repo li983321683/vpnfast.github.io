@@ -12,7 +12,7 @@
 
 ![ExpressVPN](/image/express.png)
 
-**ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能力和敏锐洞察墙的能力，成为了翻墙到国外的最稳定的VPN，可以说是VPN排名第一**
+ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能力和敏锐洞察墙的能力，成为了翻墙到国外的最稳定的VPN，可以说是VPN排名第一
 
 - 全世界都能访问
 
@@ -35,7 +35,7 @@
 
 ![NordVPN](/image/nord.png)
 
-**NordVPN在中国的速度表现也非常不错，属于性价比非常高的VPN，包年套餐非常划算**
+NordVPN在中国的速度表现也非常不错，属于性价比非常高的VPN，包年套餐非常划算
 
 - 访问安全
 
@@ -53,7 +53,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ![VyprVPN](/image/vypr.jpg)
 
-**非常注重中国市场，[中国镜像域名](http://qiangwaikan.com/go/vypr-cn)可以无需翻墙直接打开，在中国大陆测试的速度表现非常不错，也是一线商家里面算价格便宜的了**
+非常注重中国市场，[中国镜像域名](http://qiangwaikan.com/go/vypr-cn)可以无需翻墙直接打开，在中国大陆测试的速度表现非常不错，也是一线商家里面算价格便宜的了
 
 - 注重中国市场
 
@@ -75,7 +75,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ![Surfshark](/image/surfshark.png)
 
-**专注Netflix，如果需要翻墙看Netflix，你可能需要它**
+专注Netflix，如果需要翻墙看Netflix，你可能需要它
 
 - 隐私保护
 
