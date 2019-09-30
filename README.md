@@ -8,11 +8,11 @@
 
 ## 4个稳定好用的翻墙软件VPN推荐，国内实测
 
-### [>> VyprVPN](http://qiangwaikan.com/go/vypr)
+### [>> VyprVPN](http://qiangwaikan.com/go/vypr)（强烈推荐）
 
 ![VyprVPN](/image/vypr.jpg)
 
-非常注重中国市场，[中国镜像域名](http://qiangwaikan.com/go/vypr-cn)可以无需翻墙直接打开，在中国大陆测试的速度表现非常不错，也是一线商家里面算价格便宜的了，强烈推荐
+非常注重中国市场，[中国镜像域名](http://qiangwaikan.com/go/vypr-cn)可以无需翻墙直接打开，在中国大陆测试的速度表现非常不错，也是一线商家里面算价格便宜的了
 
 - 注重中国市场
 
@@ -30,7 +30,7 @@
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### [>> ExpressVPN](http://qiangwaikan.com/go/express)（强烈推荐）
+### [>> ExpressVPN](http://qiangwaikan.com/go/express)
 
 ![ExpressVPN](/image/express.png)
 
