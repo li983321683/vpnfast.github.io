@@ -116,9 +116,9 @@ Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200
 
 选择VPN之前，要看一下是否支持安卓，iOS等手机操作系统，以及平板，电脑等，这也是考察VPN商家综合实力的一方面。其他设备基本上所有商家都支持，主要就是苹果设备，毕竟苹果特别配合国内审查，库克都快称得上是入党积极分子了。苹果设备在大陆地区的app store上不能直接搜索到应用，需要切换到国外apple id进行下载，通常情况下VPN商家提供了这些账号，购买之后可以联系客服进行操作。
 
-## 其他翻墙姿势
+### 其他翻墙姿势
 
-其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray，VPS位置最好选择美西的比较稳定，推荐[Vultr](https://www.vultr.com/?ref=8148224)的VPS，线路稳定价格适中。[Shadowsocks搭建教程](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)有详细的搭建过程，[V2Ray](https://www.v2ray.com/)最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解。
+其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray，VPS位置最好选择美西的比较稳定，推荐[Vultr](https://www.vultr.com/?ref=8148224)的VPS，线路稳定价格适中。[Shadowsocks搭建教程](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)有详细的搭建过程，[V2Ray](https://www.v2ray.com/)最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解。2019年3月25北京理工大学提交的【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦通过之后，V2ray也就宣告失效。
 
 ## 关于VPN的一些问题
 
