@@ -8,7 +8,29 @@
 
 ## 4个稳定好用的翻墙软件VPN推荐，国内实测
 
-### [>> VyprVPN](http://qiangwaikan.com/go/vypr)（强烈推荐）
+### [>> ExpressVPN](http://qiangwaikan.com/go/express)（强烈推荐）
+
+![ExpressVPN](/image/express.png)
+
+ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能力和敏锐洞察墙的能力，成为了翻墙到国外的最稳定的VPN，可以说是VPN排名第一，翻墙最好用的VPN，性价比非常高，选择包年套餐也非常划算
+
+- 全世界都能访问
+
+因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，并且在香港等地都有中国VPN服务器。
+
+- 24小时在线客服
+
+如果在设置和故障排除的时候遇到了问题，可以通过电子邮件或者实时聊天的方式联系在在线客服。
+
+- 中国大陆速度最快
+
+看[youtube](https://www.youtube.com/)的1080P毫无压力。
+
+- 30天退款承诺
+
+30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
+
+### [>> VyprVPN](http://qiangwaikan.com/go/vypr)
 
 ![VyprVPN](/image/vypr.jpg)
 
@@ -30,33 +52,12 @@
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### [>> ExpressVPN](http://qiangwaikan.com/go/express)
-
-![ExpressVPN](/image/express.png)
-
-ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能力和敏锐洞察墙的能力，成为了翻墙到国外的最稳定的VPN，可以说是VPN排名第一，但是价格偏贵
-
-- 全世界都能访问
-
-因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，并且在香港等地都有中国VPN服务器。
-
-- 24小时在线客服
-
-如果在设置和故障排除的时候遇到了问题，可以通过电子邮件或者实时聊天的方式联系在在线客服。
-
-- 中国大陆速度最快
-
-看[youtube](https://www.youtube.com/)的1080P毫无压力。
-
-- 30天退款承诺
-
-30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
 ### [>> NordVPN](http://qiangwaikan.com/go/nord)
 
 ![NordVPN](/image/nord.png)
 
-NordVPN在中国的速度表现也非常不错，属于性价比非常高的VPN，包年套餐非常划算
+NordVPN在中国的速度表现也非常不错，主要优势是军用级别加密，对加密要求比较高的可以选择
 
 - 访问安全
 
@@ -70,19 +71,19 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候速度非常快。
 
-### [>> Surfshark](http://qiangwaikan.com/go/surfshark)
+### [>> PandaVPN](http://qiangwaikan.com/go/panda)
 
-![Surfshark](/image/surfshark.png)
+![PandaVPN](/image/panda.png)
 
-专注Netflix，如果需要翻墙看Netflix，你可能需要它
+中文支持友好，是相对小众的VPN，价格方面也比较便宜，网络连接速度上相对不错，预算有限的话可以选择
 
 - 隐私保护
 
-Surfshark拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。Surfshark承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
+PandaVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PandaVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
 
 - 全球可访问
 
-Surfshark同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是[Netflix](https://www.netflix.com/us-zh/)。不管身在何处，都能稳定快速的访问资源。
+PandaVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是[Netflix](https://www.netflix.com/us-zh/)。不管身在何处，都能稳定快速的访问资源。
 
 - 对抗审查制度
 
