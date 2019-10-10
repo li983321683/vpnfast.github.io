@@ -70,19 +70,19 @@ NordVPN supports almost all devices and allows up to 6 devices to be online at t
 
 As everyone knows, the biggest factor affecting VPN access speed is geographical location. NordVPN has more than 5,700 servers in 60 countries and is very fast when watching videos or downloading files.
 
-### [>> PandaVPN](http://qiangwaikan.com/go/panda)
+### [>> PureVPN](http://qiangwaikan.com/go/pure)
 
-![PandaVPN](/image/panda.png)
+![PureVPN](/image/pure.png)
 
 Focus on Netflix, if you need to watch Netflix, you may need it.
 
 - privacy protection
 
-PandaVPN has multiple encryption protocols that provide secure DNS mechanisms and other privacy features. There is a mechanism to protect the disconnection of the connection, in case there is a risk of data leakage after the connection is interrupted. PandaVPN promises not to log the behavior log and will not share the data with any third party.
+PureVPN has multiple encryption protocols that provide secure DNS mechanisms and other privacy features. There is a mechanism to protect the disconnection of the connection, in case there is a risk of data leakage after the connection is interrupted. PureVPN promises not to log the behavior log and will not share the data with any third party.
 
 - Worldwide access
 
-PandaVPN is also equipped with VPN servers in more than 70 countries around the world, with more than 200,000 IP addresses, breaking through the regional restrictions on audio and video access, especially [Netflix](https://www.netflix.com/us-zh/ ). Stable and fast access to resources no matter where you are.
+PureVPN is also equipped with VPN servers in more than 70 countries around the world, with more than 200,000 IP addresses, breaking through the regional restrictions on audio and video access, especially [Netflix](https://www.netflix.com/us-zh/ ). Stable and fast access to resources no matter where you are.
 
 - Confrontation censorship
 
