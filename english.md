@@ -88,6 +88,28 @@ In a complex network connection, the unexpected disconnection of the network is 
 
 If you encounter problems during use, you can contact their technical team and go online 24/7.
 
+### [>> PandaVPN](http://qiangwaikan.com/go/panda)
+
+![PandaVPN](/image/panda.png)
+
+PandaVPN is smaller than the above, so the price is cheaper. If the budget is limited, you can choose
+
+- Bank-level virtual network security protection
+
+Regardless of any public access to the network, it will be protected by 256 bank-level encryption, ensuring that personal privacy is not snooped.
+
+- easy to use
+
+The same support for Windows, Mac, iOS, Android and other common clients, the UI is very simple and generous, only need a switch button to connect to the VPN.
+
+- Global technical support
+
+If you encounter any problems during use, you can contact the technician to solve
+
+- 7-day money back guarantee
+
+Although it is not like the refund guarantee within 30 days of ExpressVPN, if there is a problem, it will be discovered within 7 days.
+
 ## Over the wall software VPN recommended standard
 
 ![VPN recommendation](/image/standard.jpg)
