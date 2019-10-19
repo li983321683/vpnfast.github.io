@@ -30,24 +30,6 @@ Watching [youtube](https://www.youtube.com/) 1080P is stress free.
 
 If you feel that ExpressVPN is not working well within 30, you can unconditionally refund it. This is indeed a big business style.
 
-### [>> PureVPN](http://qiangwaikan.com/go/pure)
-
-![PureVPN](/image/pure.png)
-
-Focus on Netflix, if you need to watch Netflix, you may need it.
-
-- privacy protection
-
-PureVPN has multiple encryption protocols that provide secure DNS mechanisms and other privacy features. There is a mechanism to protect the disconnection of the connection, in case there is a risk of data leakage after the connection is interrupted. PureVPN promises not to log the behavior log and will not share the data with any third party.
-
-- Worldwide access
-
-PureVPN is also equipped with VPN servers in more than 70 countries around the world, with more than 200,000 IP addresses, breaking through the regional restrictions on audio and video access, especially [Netflix](https://www.netflix.com/us-zh/ ). Stable and fast access to resources no matter where you are.
-
-- Confrontation censorship
-
-The main detection method of the wall is to judge according to the flow fingerprint, their unique encryption protocol can circumvent the detection of the domestic wall to the utmost extent.
-
 ### [>> NordVPN](http://qiangwaikan.com/go/nord)
 
 ![NordVPN](/image/nord.png)
@@ -65,6 +47,24 @@ NordVPN supports almost all devices and allows up to 6 devices to be online at t
 - Global server support
 
 As everyone knows, the biggest factor affecting VPN access speed is geographical location. NordVPN has more than 5,700 servers in 60 countries and is very fast when watching videos or downloading files.
+
+### [>> PureVPN](http://qiangwaikan.com/go/pure)
+
+![PureVPN](/image/pure.png)
+
+Focus on Netflix, if you need to watch Netflix, you may need it.
+
+- privacy protection
+
+PureVPN has multiple encryption protocols that provide secure DNS mechanisms and other privacy features. There is a mechanism to protect the disconnection of the connection, in case there is a risk of data leakage after the connection is interrupted. PureVPN promises not to log the behavior log and will not share the data with any third party.
+
+- Worldwide access
+
+PureVPN is also equipped with VPN servers in more than 70 countries around the world, with more than 200,000 IP addresses, breaking through the regional restrictions on audio and video access, especially [Netflix](https://www.netflix.com/us-zh/ ). Stable and fast access to resources no matter where you are.
+
+- Confrontation censorship
+
+The main detection method of the wall is to judge according to the flow fingerprint, their unique encryption protocol can circumvent the detection of the domestic wall to the utmost extent.
 
 ### [>> VyprVPN](http://qiangwaikan.com/go/vypr)
 
