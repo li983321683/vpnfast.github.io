@@ -2,8 +2,6 @@
 
 ![2019还能用的翻墙VPN软件，中国VPN购买推荐，ExpressVPN怎么样，知乎推荐，翻墙软件, VPN推荐](/image/wall.jpg "vpn")
 
-[Click here to visit the English page](/english)
-
 如今越来越多的VPN被封，在中国国内还能用的VPN已经不多了，所以我们实测了几家一线VPN商家，根据各个指标的实际表现，我们推荐了几家在2019中国稳定好用的翻墙VPN，为的是减少大家在寻找VPN过程中采坑的风险，并且这几家VPN都有30天内退款保证。最后还有SSR和V2ray的翻墙方法。由于每家VPN都有可能被封，所以本文会定期更新，推荐当前中国还能用的VPN翻墙软件。
 
 ## 几个稳定好用的翻墙软件VPN推荐，国内实测
@@ -164,6 +162,6 @@ VPN是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用�
 
 首先下结论，使用VPN会被处罚，但是中国国内使用VPN的用户数量是极大了，不可能全部都处罚，只能说杀鸡儆猴，比如某些[使用VPN被罚的新闻](https://www.bbc.com/zhongwen/simp/chinese-news-46823319)。当然也不是说这个处罚是随机的，而是最先处罚那些浏览了国外政治敏感网站，并且肆意传播的人。所以在使用VPN的时候一定要记住read-only，就是只读取信息，不要传播信息，文明使用VPN翻墙，切勿从事违法反动行为。
 
-[本文固定地址](https://vpnfast.github.io/) 本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏
+[本文固定地址](https://vpnfast.github.io/) [nglish page](/english) 本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏
 
 
