@@ -66,11 +66,11 @@ PureVPN is also equipped with VPN servers in more than 70 countries around the w
 
 The main detection method of the wall is to judge according to the flow fingerprint, their unique encryption protocol can circumvent the detection of the domestic wall to the utmost extent.
 
-### [>> VyprVPN](http://qiangwaikan.com/go/vypr)
+### [>> VyprVPN](http://www.dpbolvw.net/click-9173306-13811140)
 
 ![VyprVPN](/image/vypr.jpg)
 
-Paying great attention to the Chinese market, [China's mirrored domain](http://qiangwaikan.com/go/vypr-cn) name can be opened directly without having to turn over the wall. The speed of testing in mainland China is very good, and it is also cheap in the first-line merchants.
+Paying great attention to the Chinese market, [China's mirrored domain](http://www.dpbolvw.net/click-9173306-13811140) name can be opened directly without having to turn over the wall. The speed of testing in mainland China is very good, and it is also cheap in the first-line merchants.
 
 - Focus on the Chinese market
 

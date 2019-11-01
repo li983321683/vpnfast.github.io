@@ -66,11 +66,11 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-### [>> VyprVPN](http://qiangwaikan.com/go/vypr)
+### [>> VyprVPN](http://www.dpbolvw.net/click-9173306-13811140)
 
 ![VyprVPN](/image/vypr.jpg)
 
-非常注重中国市场，[中国镜像域名](http://qiangwaikan.com/go/vypr-cn)可以无需翻墙直接打开，在中国大陆测试的速度还算可以
+非常注重中国市场，[中国镜像域名](http://www.dpbolvw.net/click-9173306-13811140)可以无需翻墙直接打开，在中国大陆测试的速度还算可以
 
 - 注重中国市场
 
