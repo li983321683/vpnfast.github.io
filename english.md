@@ -30,24 +30,6 @@ Watching [youtube](https://www.youtube.com/) 1080P is stress free.
 
 If you feel that ExpressVPN is not working well within 30, you can unconditionally refund it. This is indeed a big business style.
 
-### [>> NordVPN](http://qiangwaikan.com/go/nord)
-
-![NordVPN](/image/nord.png)
-
-NordVPN is better for audio and video, if you want to watch the video in the lock zone, you may need it.
-
-- Access security
-
-NordVPN has military-grade encryption technology, which can effectively protect the privacy of web browsing records even in public, using [wifi](https://zh.wikipedia.org/zh/Wi-Fi). It can be said that it is the safest VPN.
-
-- Protect all devices
-
-NordVPN supports almost all devices and allows up to 6 devices to be online at the same time. This is very conscience, and many VPN merchants only support single sign-on. Even more intimate is that even [Chrome](https://www.google.com/intl/zh-CN/chrome/) Web proxy extensions are available. NordVPN also has a strict log-free policy, automatic Kill Switch, [DNS leak](https://zhuanlan.zhihu.com/p/47095852) protection, Onion Over VPN and other functions.
-
-- Global server support
-
-As everyone knows, the biggest factor affecting VPN access speed is geographical location. NordVPN has more than 5,700 servers in 60 countries and is very fast when watching videos or downloading files.
-
 ### [>> PureVPN](http://qiangwaikan.com/go/pure)
 
 ![PureVPN](/image/pure.png)
@@ -109,6 +91,24 @@ If you encounter any problems during use, you can contact the technician to solv
 - 7-day money back guarantee
 
 Although it is not like the refund guarantee within 30 days of ExpressVPN, if there is a problem, it will be discovered within 7 days.
+
+### [>> NordVPN](http://qiangwaikan.com/go/nord)
+
+![NordVPN](/image/nord.png)
+
+NordVPN is better for audio and video, if you want to watch the video in the lock zone, you may need it.
+
+- Access security
+
+NordVPN has military-grade encryption technology, which can effectively protect the privacy of web browsing records even in public, using [wifi](https://zh.wikipedia.org/zh/Wi-Fi). It can be said that it is the safest VPN.
+
+- Protect all devices
+
+NordVPN supports almost all devices and allows up to 6 devices to be online at the same time. This is very conscience, and many VPN merchants only support single sign-on. Even more intimate is that even [Chrome](https://www.google.com/intl/zh-CN/chrome/) Web proxy extensions are available. NordVPN also has a strict log-free policy, automatic Kill Switch, [DNS leak](https://zhuanlan.zhihu.com/p/47095852) protection, Onion Over VPN and other functions.
+
+- Global server support
+
+As everyone knows, the biggest factor affecting VPN access speed is geographical location. NordVPN has more than 5,700 servers in 60 countries and is very fast when watching videos or downloading files.
 
 ## Over the wall software VPN recommended standard
 

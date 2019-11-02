@@ -30,29 +30,11 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### [>> NordVPN](http://qiangwaikan.com/go/nord)
-
-![NordVPN](/image/nord.png)
-
-NordVPN也是一家老牌商家，网络速度和稳定性目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是如果有条件还是尽量选择[ExpressVPN](http://qiangwaikan.com/go/express)
-
-- 访问安全
-
-NordVPN拥有军用级别的加密技术，就算在公共场合，使用[wifi](https://zh.wikipedia.org/zh/Wi-Fi)等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
-
-- 保护所有设备
-
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连[Chrome](https://www.google.com/intl/zh-CN/chrome/)的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，[DNS泄露](https://zhuanlan.zhihu.com/p/47095852)防护，Onion Over VPN等功能。
-
-- 全球服务器支持
-
-大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候速度非常快。
-
 ### [>> PureVPN](http://qiangwaikan.com/go/pure)
 
 ![PureVPN](/image/pure.png)
 
-PureVPN在中国的速度表现也非常不错，属于性价比非常高的VPN，包年套餐也非常划算
+NordVPN也是一家老牌商家，网络速度和稳定性目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是如果有条件还是尽量选择[ExpressVPN](http://qiangwaikan.com/go/express)
 
 - 隐私保护
 
@@ -70,7 +52,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ![VyprVPN](/image/vypr.jpg)
 
-非常注重中国市场，[中国镜像域名](http://www.tkqlhce.com/click-9173306-13829065)可以无需翻墙直接打开，在中国大陆测试的速度还算可以
+非常注重中国市场，[中国镜像域名](http://www.tkqlhce.com/click-9173306-13829065)可以无需翻墙直接打开，经测试澳门和台湾两个节点最快
 
 - 注重中国市场
 
@@ -92,7 +74,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ![PandaVPN](/image/panda.png)
 
-PandaVPN相比以上几家要小众一些，所以价格也要便宜些，预算有限的话可以选择
+PandaVPN相比以上几家要小众一些，所以价格也要便宜些，性价比非常高
 
 - 银行级的虚拟网络安全保护
 
@@ -109,6 +91,24 @@ PandaVPN相比以上几家要小众一些，所以价格也要便宜些，预算
 - 7天退款保证
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
+
+### [>> NordVPN](http://qiangwaikan.com/go/nord)
+
+![NordVPN](/image/nord.png)
+
+NordVPN在中国的速度表现还算不错，包年套餐比较划算，作为次要选择
+
+- 访问安全
+
+NordVPN拥有军用级别的加密技术，就算在公共场合，使用[wifi](https://zh.wikipedia.org/zh/Wi-Fi)等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
+
+- 保护所有设备
+
+NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连[Chrome](https://www.google.com/intl/zh-CN/chrome/)的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，[DNS泄露](https://zhuanlan.zhihu.com/p/47095852)防护，Onion Over VPN等功能。
+
+- 全球服务器支持
+
+大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候速度非常快。
 
 ## 翻墙软件VPN推荐的标准
 
