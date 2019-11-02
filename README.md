@@ -34,7 +34,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 ![PureVPN](/image/pure.png)
 
-NordVPN也是一家老牌商家，网络速度和稳定性目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是如果有条件还是尽量选择[ExpressVPN](http://qiangwaikan.com/go/express)，可以在购买页面选择中文
+PureVPN也是一家老牌商家，网络速度和稳定性目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是如果有条件还是尽量选择[ExpressVPN](http://qiangwaikan.com/go/express)，可以在购买页面选择中文
 
 - 隐私保护
 
