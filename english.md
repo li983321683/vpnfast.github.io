@@ -1,4 +1,4 @@
-# The best working VPN for China: Still Working in October 2019
+# The best working VPN for China: Still Working in November 2019
 
 ![2019 can also use VPN software, Best VPN for China, VPN leaderboard, ExpressVPN how, know recommended, software, VPN recommended](/image/wall.jpg "vpn")
 
