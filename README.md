@@ -40,7 +40,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 - 优惠福利
 
-点击直达：[>> 2折优惠，最低1.99美元/月](http://qiangwaikan.com/go/panda)
+点击直达：[>> 2折优惠，最低1.99美元/月，双11特惠！！](http://qiangwaikan.com/go/panda)
 
 - 银行级的虚拟网络安全保护
 
