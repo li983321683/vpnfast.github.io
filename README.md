@@ -14,7 +14,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 - 优惠福利
 
-点击直达：[>> 8.5折优惠，最低8.32美元/月](http://qiangwaikan.com/go/express)
+点击直达：<a href="http://qiangwaikan.com/go/express" target="_blank">>> 8.5折优惠，最低8.32美元/月</a>
 
 - 网络速度无敌快！！！
 
