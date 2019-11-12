@@ -18,7 +18,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 - 网络速度无敌快！！！
 
-我们使用youtube的4k画质进行测试，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
+我们使用[youtube的4k画质](https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s)进行测试，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
 
 - 全世界都能访问
 
