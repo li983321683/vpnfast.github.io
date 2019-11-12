@@ -6,7 +6,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### [>> ExpressVPN](http://qiangwaikan.com/go/express)（强烈推荐）
+### <a href="http://qiangwaikan.com/go/express" target="_blank">>> ExpressVPN</a>（强烈推荐）
 
 ![ExpressVPN](/image/express.png)
 
@@ -18,7 +18,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 - 网络速度无敌快！！！
 
-我们使用[youtube的4k画质](https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s)进行测试，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
+我们使用<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
 
 - 全世界都能访问
 
@@ -32,7 +32,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### [>> PandaVPN](http://qiangwaikan.com/go/panda)
+### <a href="http://qiangwaikan.com/go/panda" target="_blank">>> PandaVPN</a>
 
 ![PandaVPN](/image/panda.png)
 
@@ -40,7 +40,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 - 优惠福利
 
-点击直达：[>> 2折优惠，最低1.99美元/月，双11特惠！！](http://qiangwaikan.com/go/panda)
+点击直达：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 2折优惠，最低1.99美元/月，双11特惠！！</a>
 
 - 银行级的虚拟网络安全保护
 
@@ -58,7 +58,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### [>> PureVPN](http://qiangwaikan.com/go/pure)
+### <a href="http://qiangwaikan.com/go/pure" target="_blank">>> PureVPN</a>
 
 ![PureVPN](/image/pure.png)
 
@@ -66,7 +66,7 @@ PureVPN也是一家老牌商家，可以在购买页面选择中文，网络速�
 
 - 优惠福利
 
-点击直达：[>> 1.5折优惠，最低1.65美元/月](http://qiangwaikan.com/go/pure)
+点击直达：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 1.5折优惠，最低1.65美元/月</a>
 
 - 隐私保护
 
@@ -80,7 +80,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-### [>> Surfshark](http://qiangwaikan.com/go/surfshark)
+### <a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> Surfshark</a>
 
 ![Surfshark](/image/surfshark.png)
 
@@ -88,7 +88,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 - 优惠福利
 
-点击直达：[>> 1.7折优惠，最低1.99美元/月](http://qiangwaikan.com/go/surfshark)
+点击直达：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 1.7折优惠，最低1.99美元/月</a>
 
 - 注重中国市场
 
@@ -106,7 +106,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### [>> NordVPN](http://qiangwaikan.com/go/nord)
+### <a href="http://qiangwaikan.com/go/nord" target="_blank">>> NordVPN</a>
 
 ![NordVPN](/image/nord.png)
 
@@ -114,7 +114,7 @@ NordVPN之前在中国的速度表现还算不错，包年套餐比较划算，�
 
 - 优惠福利
 
-点击直达：[>> 3折优惠，最低3.49美元/月](http://qiangwaikan.com/go/nord)
+点击直达：<a href="http://qiangwaikan.com/go/nord" target="_blank">>> 3折优惠，最低3.49美元/月</a>
 
 - 访问安全
 
@@ -182,6 +182,6 @@ VPN是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用�
 
 首先下结论，使用VPN会被处罚，但是中国国内使用VPN的用户数量是极大了，不可能全部都处罚，只能说杀鸡儆猴，比如某些[使用VPN被罚的新闻](https://www.bbc.com/zhongwen/simp/chinese-news-46823319)。当然也不是说这个处罚是随机的，而是最先处罚那些浏览了国外政治敏感网站，并且肆意传播的人。所以在使用VPN的时候一定要记住read-only，就是只读取信息，不要传播信息，文明使用VPN翻墙，切勿从事违法反动行为。
 
-[本文固定地址](https://vpnfast.github.io/) <a href="/english" target="_blank">English page1</a>本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏
+[本文固定地址](https://vpnfast.github.io/) [English page](/english) 本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏
 
 
