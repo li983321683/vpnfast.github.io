@@ -6,7 +6,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### <a href="http://qiangwaikan.com/go/express" target="_blank">>> ExpressVPN</a>（强烈推荐）
+### <a href="http://qiangwaikan.com/go/express" target="_blank">>> ExpressVPN</a>
 
 ![ExpressVPN](/image/express.png)
 
