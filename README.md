@@ -18,7 +18,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 - 网络速度无敌快！！！
 
-我们使用<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
+我们使用<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，结果发现最高可以支持2160P，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
 
 - 全世界都能访问
 
@@ -41,6 +41,10 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 - 优惠福利
 
 点击直达：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 2折优惠，最低1.99美元/月，双11特惠！！</a>
+
+- 速度表现不错
+
+用同样的<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，最高可以支持1440P画质播放，就这个价格来说表现非常优秀了。
 
 - 银行级的虚拟网络安全保护
 
@@ -84,7 +88,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ![Surfshark](/image/surfshark.png)
 
-中文支持友好，不限制设备数量，速度表现上相对不错，适合家庭用户使用
+中文支持友好，不限制设备数量，速度表现一般，适合家庭用户使用，不建议个人使用
 
 - 优惠福利
 
@@ -110,7 +114,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ![NordVPN](/image/nord.png)
 
-NordVPN之前在中国的速度表现还算不错，包年套餐比较划算，但是最近翻墙不是很稳定，建议大家作为次要选择
+NordVPN之前在中国的速度表现还算不错，包年套餐比较划算，但是最近翻墙效果非常差，建议大家慎重
 
 - 优惠福利
 
