@@ -20,6 +20,8 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 我们使用<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，结果发现最高可以支持2160P，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
 
+![ExpressVPN-speed](/image/express-speed.jpg)
+
 - 全世界都能访问
 
 因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，并且在香港等地都有中国VPN服务器。
@@ -42,9 +44,11 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 点击直达：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 2折优惠，最低1.99美元/月，双11特惠！！</a>
 
-- 速度表现不错
+- 速度表现优秀
 
 用同样的<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，最高可以支持1440P画质播放，就这个价格来说表现非常优秀了。
+
+![PandaVPN-speed](/image/panda-speed.jpg)
 
 - 银行级的虚拟网络安全保护
 
@@ -66,11 +70,17 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 ![PureVPN](/image/pure.png)
 
-PureVPN也是一家老牌商家，可以在购买页面选择中文，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些
+PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是购买安装流程稍微复杂些，需要英语过关。
 
 - 优惠福利
 
 点击直达：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 1.5折优惠，最低1.65美元/月</a>
+
+- 速度非常快
+
+经过测试，发现速度稍稍低于ExpressVPN，但是观看4K视频依然流畅
+
+![PureVPN-speed](/image/pure-speed.jpg)
 
 - 隐私保护
 
