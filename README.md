@@ -70,7 +70,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 ![PureVPN](/image/pure.png)
 
-PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是购买安装流程稍微复杂些，需要英语过关。
+很多人说PureVPN不能翻墙，但我在这里要为PureVPN正名，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是购买安装流程稍微复杂些，需要英语过关。
 
 - 优惠福利
 
