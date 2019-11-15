@@ -74,7 +74,7 @@ PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目�
 
 - 优惠福利
 
-点击直达：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 1.7折优惠，最低1.65美元/月</a>
+点击直达：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 1.7折优惠，最低1.92美元/月</a>
 
 - 速度非常快
 
