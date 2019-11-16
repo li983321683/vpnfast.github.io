@@ -176,7 +176,7 @@ VPN在技术上要更加底层一些，安装好VPN之后可以在网络中心�
 
 ### 其他翻墙姿势
 
-其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装ShadowsocksR或者V2Ray，VPS位置最好选择美西的比较稳定，推荐[Vultr](https://www.vultr.com/?ref=8148224)的VPS，线路稳定价格适中。[SSR一键安装教程以及脚本](http://qiangwaikan.com/ssr/)有详细的搭建过程，[V2Ray](https://www.v2ray.com/)最近也比较火，跟ShadowsocksR也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，目前来说Shadowsocks已经不能用了，很容易墙破解。2019年3月25北京理工大学提交的【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦通过之后，希望这个专利是水货。
+其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装ShadowsocksR或者V2Ray，VPS位置最好选择美西的比较稳定，推荐[Vultr](https://www.vultr.com/?ref=8148224)的VPS，线路稳定价格适中。[SSR一键安装教程以及脚本](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)有详细的搭建过程，[V2Ray](https://www.v2ray.com/)最近也比较火，跟ShadowsocksR也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，目前来说Shadowsocks已经不能用了，很容易墙破解。2019年3月25北京理工大学提交的【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦通过之后，希望这个专利是水货。
 
 ## 关于VPN的一些问题
 
