@@ -76,11 +76,11 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 点击直达：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 1.7折优惠，最低1.92美元/月</a>
 
-![PureVPN-speed](/image/pure-speed.jpg)
-
 - 速度非常快
 
 经过测试，发现速度稍稍低于ExpressVPN，但是观看4K视频依然流畅
+
+![PureVPN-speed](/image/pure-speed.jpg)
 
 - 隐私保护
 
